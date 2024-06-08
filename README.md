@@ -14,7 +14,7 @@ II) Positive Sentiment Detection
 
 <img src="marketing/positive-analysis.png">
  
-II) Positive Sentiment Detection
+III) Neutral Sentiment Detection
 
 <img src="marketing/neutral-analysis.png">
  
