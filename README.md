@@ -1,38 +1,38 @@
-<h1>Sentiment Analysis on Car Reviews</h1>
+# Sentiment Analysis on Car Reviews
 
 We are Foghlaim Meaisin Software, an IT organization (company) established in Calgary, Alberta, Canada.
  
 We have new research on Machine Learning for Sentiment Analysis on Car Reviews for Vehicle Dealers, called the "FM Carsen" software.
  
-<h2>These are our software demonstration using React frontend</h2>
+## These are our software demonstration using React frontend
  
-I) Negative Sentiment Detection
+### Negative Sentiment Detection
  
 <img src="marketing/negative-analysis.png">
  
-II) Positive Sentiment Detection
+### Positive Sentiment Detection
 
 <img src="marketing/positive-analysis.png">
  
-III) Neutral Sentiment Detection
+### Neutral Sentiment Detection
 
 <img src="marketing/neutral-analysis.png">
 
-IV) MLOps : MLflow on Databricks
+## MLOps : MLflow on Databricks
 
-a) Project history
+### Project history
 
 <img src="marketing/mlflow1.png">
 
-b) Sentiment analysis history
+### Sentiment analysis history
 
 <img src="marketing/mlflow2.png">
 
-c) Positive prediction accuracy
+### Positive prediction accuracy
 
 <img src="marketing/mlflow3.png">
 
-d) Aspect prediction accuracy
+### Aspect prediction accuracy
 
 <img src="marketing/mlflow4.png">
  
